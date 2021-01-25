@@ -1,6 +1,11 @@
 ---
 layout: post
 ---
+JW Seo is a 1st year PhD student at Carnegie Mellon University, Department of Materials Science and Engineering. He is interested in applying various Machine Learning techniques to Materials research. Before coming to Carnegie Mellon JW researched at Korea Institute of Science and Technology (KIST) to develop Machine Learning algorithms that predicts properties of proteins.
+
+JW graduated from Korea University in February 2020. He spent his last semester as a KU student at the Max Planck Institute for the Chemical Physics of Solids (MPI-CPfS) where he researched crystal growth of 
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
